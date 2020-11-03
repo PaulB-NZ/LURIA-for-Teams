@@ -16,6 +16,5 @@ For reading the Line URI data for Skype for Business Server (SFBS) objects you w
 * access to SFBS via Skype for Business PowerShell
 
 ## Known limitations
-Currently the Teams AA and CQ URI's are not collected.
+None
 
-[LURIA for Teams.ZIP](https://github.com/PaulB-NZ/LURIA/files/5104727/LURIA.for.Teams.ZIP)
