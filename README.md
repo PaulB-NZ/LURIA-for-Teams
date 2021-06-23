@@ -17,6 +17,6 @@ For reading the Line URI data for Skype for Business Server (SFBS) objects you w
 None
 
 ## Version History
-3.1 Read Teams data
-3.2 Read CQ and AA data
-3.3 Support for PowerShell V7 and use "connect-MicrosoftTeams"
+* 3.1 Read Teams data
+* 3.2 Read CQ and AA data
+* 3.3 Support for PowerShell V7 and use "connect-MicrosoftTeams"
